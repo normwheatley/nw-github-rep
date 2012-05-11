@@ -1,5 +1,10 @@
 # include <stdio.h>
 
+#
+#
+# added by norm:w
+
+#
 int main(int argc, char **argv)
 {
 	printf("hello world\n");
